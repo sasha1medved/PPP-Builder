@@ -10,10 +10,6 @@ Open this file in a browser:
 
 `ppp_builder_reference_matched.html`
 
-Full path:
-
-`/Users/oleksandramedved/Documents/Codex/ppp_builder_reference_matched.html`
-
 ## How To Use
 
 1. Open the HTML file in a browser.
@@ -45,14 +41,6 @@ The exported PDF includes:
 - Parts and materials photo
 - Selected material labels
 - Packing steps with photos and descriptions
-
-Images are fitted proportionally, so they are not stretched or squeezed.
-
-## Editing The Tool
-
-To edit the tool, open `ppp_builder_reference_matched.html` in a text editor such as VS Code, Cursor, Sublime Text, or TextEdit in plain-text mode.
-
-After saving changes, refresh the browser page.
 
 ## Notes
 
