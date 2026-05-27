@@ -8,7 +8,7 @@ It helps users enter project information, upload packaging photos, list packagin
 
 Open this file in a browser:
 
-`ppp_builder_reference_matched.html`
+`PPP_builder.html`
 
 ## How To Use
 
