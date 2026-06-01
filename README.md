@@ -10,10 +10,6 @@ Open this file in a browser:
 
 `PPP_builder.html`
 
-Full path:
-
-`/Users/oleksandramedved/Documents/Codex/PPP_builder.html`
-
 ## How To Use
 
 1. Open the HTML file in a browser.
@@ -30,7 +26,7 @@ Full path:
 
 ## Load Existing Files
 
-If a PPP needs correction later:
+If a PPP needs correction:
 
 1. Click `Load file`.
 2. Select a previously exported PPP file from this tool (`.pptx`, `.pdf`, or `.json` draft).
@@ -49,8 +45,6 @@ AI is optional. Users can always type descriptions manually.
 
 Project Info includes a product lookup field (Matrix ID / Barcode / Description / Cust Ref / Jen Ref).
 
-In the current version, lookup data is embedded in the HTML file. Users do not need the Excel file in the same folder for lookup to work.
-
 ## Export Output
 
 The exported PPTX and PDF include:
@@ -62,12 +56,10 @@ The exported PPTX and PDF include:
 - Selected material labels
 - Packing steps with photos and descriptions
 
-Images are fitted proportionally, so they are not stretched or squeezed.
-
 ## Notes
 
 - The tool runs locally in the browser.
 - No installation is required.
 - PPTX and PDF export require an internet connection for export libraries and font loading.
-- `Submit for Review` follows a manual SharePoint upload flow (it does not auto-upload via API in this version).
+- `Submit for Review` follows a manual SharePoint upload flow (do not forget to allow pop-up windows)
 - Use JPG, PNG, WEBP, GIF, or BMP images. Do not upload PDF files as images.
