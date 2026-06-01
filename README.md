@@ -8,7 +8,7 @@ It helps users enter project information, upload packaging photos, list packagin
 
 Open this file in a browser:
 
-`PPP_builder.html`
+`PPP_builder_updated.html`
 
 ## How To Use
 
